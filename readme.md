@@ -1,3 +1,2 @@
 https://code-qr-ie.netlify.app
-
-image.png
+<img src="./images/qr.png"></img>
