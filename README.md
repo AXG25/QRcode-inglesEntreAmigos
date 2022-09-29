@@ -1,2 +1,0 @@
-# componente-de-código-QR
- 
